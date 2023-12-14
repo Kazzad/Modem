@@ -1,5 +1,6 @@
 # Modem
-Réalisation d'un modem de fréquence suivant la norme V21 de l'UIT. Projet réalisé en 1ère année de formation à l'ENSEEIHT.  
+Modem de fréquence suivant la norme V21 de l'UIT  
+Projet de télécommunications réalisé en 1ère année de formation à l'ENSEEIHT  
 
 Liste des fichiers : 
 - `filtrage.m` :			        Fichier principal affichant les différents graphiques dans une seule fenêtre pour la modulation/démodulation par filtrage
